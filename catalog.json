@@ -1,4 +1,11 @@
-"id": "prod-0477640a-001",
+{
+  "metadata": {
+    "email": "23f3004033@ds.study.iitm.ac.in",
+    "version": "0477640a"
+  },
+  "products": [
+      {
+    "id": "prod-0477640a-001",
     "name": "Premium Item 1",
     "category": "sports",
     "price": 452.88,
@@ -172,3 +179,5 @@
     "price": 473.9,
     "stock": 150,
     "rating": 1.8
+  }
+]
